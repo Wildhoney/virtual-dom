@@ -1,5 +1,5 @@
 {
-  "name": "virtual-dom",
+  "name": "virtual-dom-webcomponents-patch",
   "version": "2.1.1",
   "description": "A batched diff-based DOM rendering strategy",
   "keywords": [
